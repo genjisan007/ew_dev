@@ -1,0 +1,6 @@
+[Mar 31, 2015 17:10:29 0-error] [30ey70po4n] Error #4001: Unable to successfully generate ZIP archive. Backup FAILED. See logs above for more information.
+[Mar 31, 2015 17:10:29 0-error] [30ey70po4n] Failed function `backup_zip_files`. Backup terminated.
+[Mar 31, 2015 17:12:53 0-error] [i0u4msnc2g] Error #4001: Unable to successfully generate ZIP archive. Backup FAILED. See logs above for more information.
+[Mar 31, 2015 17:12:53 0-error] [i0u4msnc2g] Failed function `backup_zip_files`. Backup terminated.
+[Apr 6, 2015 16:29:12 0-error] [8z1qwdomb8] Error #4001: Unable to successfully generate ZIP archive. Backup FAILED. See logs above for more information.
+[Apr 6, 2015 16:29:12 0-error] [8z1qwdomb8] Failed function `backup_zip_files`. Backup terminated.

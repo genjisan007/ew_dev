@@ -1,0 +1,2 @@
+{"event":"error","time":1428337752,"u":"90","run":"3.69","mem":"73.72","data":"Error #4001: Unable to successfully generate ZIP archive. Backup FAILED. See logs above for more information."}
+{"event":"error","time":1428337752,"u":"90","run":"3.69","mem":"73.72","data":"Failed function `backup_zip_files`. Backup terminated."}
